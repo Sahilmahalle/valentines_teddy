@@ -53,7 +53,7 @@ function increaseSizeAndChangeText(buttonId) {
     isYesButtonClicked = true; // Stop further changes on "Yes" button click
     myImage.src = "./images/kiss-milk-and-mocha.gif";
     document.getElementById("heading").innerHTML =
-      "Thank You Dear ... Love You";
+      "Thank You Pooja❤️ ... Love You";
   }
   changeText("noButton", currentTextIndexNo);
 
